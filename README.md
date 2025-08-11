@@ -21,7 +21,9 @@
 - [Window Tiler](https://github.com/yourusername/window-tiler) – React + TS draggable snapping windows
 
 ---
-
+---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nabila-nowshin)](https://git.io/streak-stats)
+---
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabila-nowshin&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabila-nowshin&layout=compact&theme=tokyonight)
