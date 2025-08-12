@@ -1,11 +1,17 @@
-# Hi there, I'm Nabila 👋
+![Banner](https://i.ibb.co.com/q3mK78vv/Blue-Futuristic-Technology-Linked-In-Background-Photo.png)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-nabila--nowshin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabila-nowshin-697467292/)](https://www.linkedin.com/in/nabila-nowshin-697467292/)
-[![Website Badge](https://img.shields.io/badge/-nabila--nowshin.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://your-website.com)](https://your-website.com)
-[![Gmail Badge](https://img.shields.io/badge/-nabila--nowshin-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nabilanowshin327@gmail.com)](mailto:nabilanowshin327@gmail.com)
 
-Welcome to my profile! I'm an Electrical & Computer Engineering graduate from RUET, passionate about web development and machine learning.  
-Currently building projects with React and Node.js. Thanks for visiting—I’d love to connect!
+## About Me
+
+I’m Nabila, an Electrical & Computer Engineering graduate from RUET who’s passionate about crafting sleek web apps and exploring the fascinating world of machine learning. I enjoy turning complex problems into clean, elegant solutions — because why settle for messy when you can have magic?
+
+**What I do:**
+- Build responsive and user-friendly web apps using React, Redux, and TypeScript  
+- Design and develop backend APIs with Node.js, Express, and MongoDB  
+- Experiment with machine learning models and data preprocessing using Python and scikit-learn  
+- Collaborate smoothly with teams using Git, GitHub, and VS Code (my coding dojo)  
+
+If you’re looking for someone who’s eager to learn, grow, and contribute effectively, you’ve come to the right place!
 
 ---
 
@@ -80,6 +86,22 @@ Currently building projects with React and Node.js. Thanks for visiting—I’d 
 
 ---
 
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nabila-nowshin-697467292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nabilanowshin327@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabila-nowshin&show_icons=true&theme=radical&hide=stars,issues,contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabila-nowshin&layout=compact&theme=tokyonight)
@@ -88,3 +110,5 @@ Currently building projects with React and Node.js. Thanks for visiting—I’d 
 ---
 
 💬 Reach me at **nabilanowshin327@gmail.com** | [LinkedIn](https://www.linkedin.com/in/nabila-nowshin-697467292/)
+
+---
