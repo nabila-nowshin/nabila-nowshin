@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/q3mK78vv/Blue-Futuristic-Technology-Linked-In-Background-Photo.png)
+![Banner](https://i.ibb.co.com/99psnxbb/Blue-Futuristic-Technology-Linked-In-Background-Photo.png)
 
 
 ## About Me
