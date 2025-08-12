@@ -1,5 +1,16 @@
 ![Banner](https://i.ibb.co.com/99psnxbb/Blue-Futuristic-Technology-Linked-In-Background-Photo.png)
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/nabila-nowshin-697467292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nabilanowshin327@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
 ## About Me
 
@@ -82,22 +93,6 @@ If you’re looking for someone who’s eager to learn, grow, and contribute eff
   <span class="skill-icon" style="background:#f0f0f0; border-radius:8px; padding:5px; display:inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </span>
-</p>
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nabila-nowshin-697467292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nabilanowshin327@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
 </p>
 
 ---
