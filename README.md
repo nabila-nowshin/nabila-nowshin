@@ -7,7 +7,7 @@
   <a href="mailto:nabilanowshin327@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://portfolio-34361.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
