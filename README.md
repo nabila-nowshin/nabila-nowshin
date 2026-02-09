@@ -97,13 +97,6 @@ If you’re looking for someone who’s eager to learn, grow, and contribute eff
 
 ---
 
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabila-nowshin&show_icons=true&theme=radical&hide=stars,issues,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabila-nowshin&layout=compact&theme=tokyonight)
-
-
----
-
 💬 Reach me at **nabilanowshin327@gmail.com** | [LinkedIn](https://www.linkedin.com/in/nabila-nowshin-697467292/)
 
 ---
